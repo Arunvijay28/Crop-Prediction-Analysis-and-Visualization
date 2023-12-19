@@ -30,6 +30,6 @@
 
 ### Hypothesis Testing
 
-1) Z test : for large sample
-2) t test : for small sample and if std deviation is unknown
-3) Anova  : comparision between different columns
+* Z test : for large sample
+* t test : for small sample and if std deviation is unknown
+*  Anova  : comparision between different columns
